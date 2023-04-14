@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <json.version>20190722</json.version>
+        <json.version>20230227</json.version>
         <mvc-auth-commons.version>1.2.0</mvc-auth-commons.version>
     </properties>
 
